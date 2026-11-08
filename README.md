@@ -1,4 +1,4 @@
-# 📈 Auto Scaling
+# Auto Scaling
 
 Configure Auto Scaling groups for high availability and cost optimization.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000006-AutoScaling/)**
+**[Start the workshop](https://vanhoangkha.github.io/000006-AutoScaling/)**
 
 ## Prerequisites
 
